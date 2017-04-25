@@ -47,7 +47,6 @@ marvel=# SELECT * FROM movies;
 marvel=# SELECT name FROM people;
 
         name
----------------------
  Alasdair Gerrie
  Alex Berry
  Charlie Wood
