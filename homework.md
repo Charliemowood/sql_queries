@@ -45,8 +45,7 @@ marvel=# SELECT * FROM movies;
 2 Return ONLY the name column from the 'people' table
 
 marvel=# SELECT name FROM people;
-
-        name
+ name
  Alasdair Gerrie
  Alex Berry
  Charlie Wood
@@ -79,8 +78,8 @@ UPDATE 1
 4. Return ONLY your name from the 'people' table.
 
 marvel=# SELECT name FROM people WHERE name = 'Charlie Wood';
-     name
---------------
+name
+
  Charlie Wood
 (1 row)
 
